@@ -1,3 +1,6 @@
+import java.io.FileInputStream;
+
+String NAME_OF_SPACE="Space.gif";
 Wall[] w;
 Dot[] d;
 Maze[] m;
@@ -148,9 +151,10 @@ void setup() {
 
   //////////////////////////////////////// END OF DOTS AND WALLS SECTION OF THE SETUP CODE, DO NOT TOUCH WITHIN THIS AREA!! /////////////////////////////////////
 
-  imag = loadImage("Space.gif");
+  imag = loadImage(NAME_OF_SPACE);
   imag.resize(width, height);
   image (imag, 0, 0);
+  
 }
 
 void drawButtons() {
