@@ -10,7 +10,7 @@ Written in Processing: https://processing.org/
 
 #####Credits
 
-Developed as the final project at the launch session of *SHIP*, a program of *CSTUY* _(Computer Science and Technology for Urban Youth)_. Selected as showcase presentation at St. Joseph's College in July, 2013. 
+Developed as the final project at the launch session of *SHIP*, a program of *CSTUY* _(Computer Science and Technology for Urban Youth)_. Selected as showcase presentation at St. Joseph's College in July, 2014.
 
 #####Contributors
 
