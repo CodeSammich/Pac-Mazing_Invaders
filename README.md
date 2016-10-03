@@ -5,7 +5,7 @@ trying desperately to escape a maze while dodging an alien's bullets.
 
 ## Highlights
 
-[Pac-Mazing Invaders](https://cstuy.org/static/past-programs/ship/assets/pacinvaders.png)
+![Pac-Mazing Invaders](https://cstuy.org/static/past-programs/ship/assets/pacinvaders.png)
 
 This application was presented as the keynote project of *CSTUY* at *St. Joseph's College*.
 
