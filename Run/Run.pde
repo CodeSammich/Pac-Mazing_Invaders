@@ -1,5 +1,3 @@
-import java.io.FileInputStream;
-
 String NAME_OF_SPACE="Space.gif";
 Wall[] w;
 Dot[] d;
@@ -49,7 +47,8 @@ int playY;
 int screenTimer;
 
 void setup() {
-  size(1000, 750);
+//  orientation(LANDSCAPE);
+  size(750, 1000);
   screen=0;
 
   //Health
