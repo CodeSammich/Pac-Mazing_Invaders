@@ -7,6 +7,6 @@ trying desperately to escape a maze while dodging an alien's bullets.
 
 ![Pac-Mazing Invaders](https://cstuy.org/static/past-programs/ship/assets/pacinvaders.png)
 
-This application was presented as the keynote project of *CSTUY* at *St. Joseph's College*.
+This application was presented as the keynote project of *[SHIP 2014](https://cstuy.org/past-programs/ship)* at *St. Joseph's College*.
 
 
